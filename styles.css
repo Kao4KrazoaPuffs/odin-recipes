@@ -1,0 +1,15 @@
+h1 {
+    font-size: 48px;
+    text-align: center;
+    color: green;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.recipe {
+    font-size: 35px;
+    color: blue;
+}
